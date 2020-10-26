@@ -1,4 +1,3 @@
-CXX :=/usr/local/bin/gcc-10
 LDLIBS=-lm -lusb-1.0
 CFLAGS=-Os -Wall
 DOCCO=docco
